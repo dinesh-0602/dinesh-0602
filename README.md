@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **Telegram Bots & Automation Projects**
 - 🌱 I'm currently learning **Python, Cloud Technologies & Bot Development**
 - 💬 Ask me about **Python, Telegram Bots, Automation**
-- 📫 How to reach me: **[Your Email]**
+<!--- 📫 How to reach me: **[Your Email]** -->
 - ⚡ Fun fact: **I love building bots that make life easier!**
 
 ---
@@ -55,25 +55,26 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dinesh-0602&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="dinesh-0602" />
 </p>
 
 ---
-
+-->
+<!--
 ### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-0602&theme=tokyo-night&hide_border=true" alt="dinesh-0602" />
 </p>
-
 ---
-
+-->
+<!--
 ### 🤝 Connect with Me
 
-<!-- <p align="left">
+ <p align="left">
   <a href="https://twitter.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinesh-0602" height="30" width="40" />
   </a>
@@ -82,10 +83,11 @@
   </a>
   <a href="https://instagram.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourusername" height="30" width="40" />
-  </a> --> -->
+  </a> 
 </p>
 
 ---
+--> 
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/dinesh-0602">dinesh-0602</a></i>
